@@ -1,0 +1,17 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             2095792       0   2095792   0% /dev
+tmpfs             424592    1256    423336   1% /run
+/dev/sda1       10253588 6545276   3167744  68% /
+tmpfs            2122940   24168   2098772   2% /dev/shm
+tmpfs               5120       4      5116   1% /run/lock
+tmpfs            2122940       0   2122940   0% /sys/fs/cgroup
+tmpfs             424588      68    424520   1% /run/user/1000
+/dev/loop0         91264   91264         0 100% /snap/core/7917
+/dev/sr0           58122   58122         0 100% /media/poupae/VBox_GAs_6.1.0
+/dev/loop1         55936   55936         0 100% /snap/core18/1223
+/dev/loop2        153600  153600         0 100% /snap/gnome-3-28-1804/71
+/dev/loop3          4352    4352         0 100% /snap/gnome-calculator/501
+/dev/loop4         15104   15104         0 100% /snap/gnome-characters/317
+/dev/loop5          1024    1024         0 100% /snap/gnome-logs/81
+/dev/loop6         45312   45312         0 100% /snap/gtk-common-themes/1353
+/dev/loop7         69248   69248         0 100% /snap/sublime-text/85
