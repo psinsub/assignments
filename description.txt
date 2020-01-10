@@ -1,0 +1,1 @@
+In this exercise, I filtered for "FOOD & BEVERAGES" whose amount exceeded $1000. output.csv is the result of the filtration. summary.txt provides the summary statistics of all column headers in the output.csv file
