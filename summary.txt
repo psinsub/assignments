@@ -1,0 +1,175 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         39
+	Longest value:         7 characters
+	Most common values:    None (54x)
+	                       B001270 (4x)
+	                       K000376 (3x)
+	                       S001185 (3x)
+	                       B000490 (2x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         50
+	Longest value:         33 characters
+	Most common values:    REPUBLICAN CONFERENCE (13x)
+	                       DEMOCRATIC CAUCUS (11x)
+	                       OFFICE OF THE SPEAKER (10x)
+	                       HON. KAREN BASS (4x)
+	                       HOUSE CHILD CARE CENTER (4x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (105x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (51x)
+	                       GENERAL EXPENDITURES (45x)
+	                       CHILD CARE CENTER (4x)
+	                       FAMILY ROOM (2x)
+	                       NEW MEMBERS ORIENTATION (2x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (105x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         37
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-30
+	Most common values:    2017-02-17 (17x)
+	                       2017-03-21 (17x)
+	                       2017-01-19 (16x)
+	                       2017-01-30 (4x)
+	                       2017-02-14 (4x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (105x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         60
+	Longest value:         8 characters
+	Most common values:    904174 (17x)
+	                       912200 (17x)
+	                       900647 (14x)
+	                       E0480373 (1x)
+	                       E0499777 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         65
+	Longest value:         40 characters
+	Most common values:    CAPITOL  HOST (8x)
+	                       OCCASIONS CATERERS INC (6x)
+	                       CITI PCARD-CHICK-FIL-A (5x)
+	                       CITI PCARD-CORNER BAKERY (5x)
+	                       DESIGN CUISINE (5x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         41
+	Smallest value:        2016-10-08
+	Largest value:         2017-03-03
+	Most common values:    2017-01-03 (20x)
+	                       2017-01-29 (18x)
+	                       2016-11-29 (14x)
+	                       2017-01-27 (3x)
+	                       2016-12-12 (3x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         40
+	Smallest value:        2016-10-08
+	Largest value:         2017-12-31
+	Most common values:    2017-02-28 (21x)
+	                       2017-01-28 (17x)
+	                       2016-12-28 (15x)
+	                       2017-01-03 (4x)
+	                       2017-01-27 (3x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         15 characters
+	Most common values:    FOOD & BEVERAGE (105x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         104
+	Smallest value:        1,003.75
+	Largest value:         19,135
+	Sum:                   327,072.68
+	Mean:                  3,114.978
+	Median:                1,912.99
+	StDev:                 3,204.816
+	Most common values:    6,000 (2x)
+	                       1,150.28 (1x)
+	                       1,776.77 (1x)
+	                       1,443.5 (1x)
+	                       1,741.7 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   211,745
+	Mean:                  2,016.619
+	Median:                2,017
+	StDev:                 0.488
+	Most common values:    2,017 (65x)
+	                       2,016 (40x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         65
+	Longest value:         40 characters
+	Most common values:    CAPITOL  HOST (8x)
+	                       OCCASIONS CATERERS INC (6x)
+	                       CITI PCARD-CHICK-FIL-A (5x)
+	                       CITI PCARD-CORNER BAKERY (5x)
+	                       DESIGN CUISINE (5x)
+
+Row count: 105
